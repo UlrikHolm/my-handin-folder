@@ -24,7 +24,7 @@ Dom Manipulation and Events:
 * Implement a simple calculator: [Svar](https://github.com/UlrikHolm/my-handin-folder/tree/master/Week36/js-day4-ex4)
 
 Dynamic UI manipulation using data obtained via fetch:
-*Har jeg sprunget over, da vi alligevel skulle lege med det i fredagsopgaven.*
+*Har ikke præcis lavet denne opgave men samme princip* : https://drop.ulrik.me/week36-movies/
 
 ## Friday
 
