@@ -19,7 +19,7 @@ JavaScript Functions:
 Dom Manipulation and Events:
 * *Hver underopgave ligger i hver sin mappe*
 * Simple DOM manipulation and Event handling
-    * [Svar](../tree/master/Week36/js-day4-ex)
+    * [Svar](/tree/master/Week36/js-day4-ex)
 * Event Bubbling and event arguments
 * Using map to create list’s (ul’s, tables etc.)
 * Using map and filter to create dynamic table-rows
