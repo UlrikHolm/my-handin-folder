@@ -17,8 +17,9 @@ JavaScript Functions:
 
 ## Thursday
 Dom Manipulation and Events:
+* *Hver underopgave ligger i hver sin mappe*
 * Simple DOM manipulation and Event handling
-    * fsdf
+    * [I'm a relative reference to a repository file](../js-day4-ex)
 * Event Bubbling and event arguments
 * Using map to create list’s (ul’s, tables etc.)
 * Using map and filter to create dynamic table-rows
