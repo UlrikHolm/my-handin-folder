@@ -25,7 +25,7 @@ Dom Manipulation and Events:
 
 Dynamic UI manipulation using data obtained via fetch:
 *Har ikke præcis lavet denne opgave men samme princip* :   https://drop.ulrik.me/week36-movies/ **Skriv 1 eller 2 så kommer der en film**
-Sourcecode: https://github.com/UlrikHolm/week36-movie/tree/master/src/main/
+Sourcecode: https://github.com/UlrikHolm/week36-movie/tree/master/src/main/webapp
 
 ## Friday
 
