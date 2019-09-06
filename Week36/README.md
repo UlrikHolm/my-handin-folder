@@ -28,6 +28,8 @@ Dynamic UI manipulation using data obtained via fetch:
 Sourcecode: https://github.com/UlrikHolm/week36-movie/tree/master/src/main/webapp
 
 ## Friday
+* Sourcecode: https://github.com/UlrikHolm/week36-movie2/blob/master/README.md
+* Live: https://drop.ulrik.me/week36-movie2/
 
 
 
